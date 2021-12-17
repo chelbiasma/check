@@ -1,0 +1,49 @@
+.nav{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+#col{
+    color: rgb(43, 170, 149);
+}
+#aa{
+    color: rgb(43, 170, 149);
+}
+.al{
+    display: inline;
+}
+.co{
+color: rgba(143, 142, 142, 0.151);
+}
+.fas{
+    color: rgb(43, 170, 149);
+}
+.eto{
+    display: flex;
+    justify-content: center;
+    color: rgb(43, 170, 149);
+}
+.hh{
+    border: 10px white;
+   border-radius: 15px;
+   justify-content: space-between;
+}
+#premier{
+   background-color: rgb(43, 170, 149);
+}
+#deuxieme{
+   background-color: rgb(36, 128, 165);
+}
+#troisieme{
+   background-color:black ;
+}
+.gg{
+    color: darkgray;
+}
+#ff{
+color: rgb(43, 170, 149);
+}
+.pour{
+    display: flex;
+    justify-content: center;
+}
